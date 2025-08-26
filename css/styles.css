@@ -21,3 +21,8 @@ section a{
     color: black;
     font-weight: 700;
 }
+
+section hr{
+    border: 2px solid black;
+    border-radius: 10px;
+}
